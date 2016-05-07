@@ -1,0 +1,36 @@
+#input {
+    width: 235px;
+}
+
+textarea {
+    height: 86px;
+    width: 160px;
+}
+
+#choix {
+    padding-left: 20px;
+}
+
+#sea {
+    background-color: #2574a9;
+}
+
+.dolphin {
+    background-color: #2574a9;
+}
+
+#ancre {
+    background-color: #9a12b3;
+}
+
+.poulpe {
+    background-color: #9a12b3;
+}
+
+#corail {
+    background-color: #db0a5b;
+}
+
+.anemone {
+    background-color: #db0a5b;
+}
